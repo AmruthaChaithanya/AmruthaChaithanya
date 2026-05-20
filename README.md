@@ -6,27 +6,12 @@ Passionate Full Stack Developer focused on building modern web applications usin
 Currently working as a Software Developer Intern at Techolas Technologies on CRM based applications.
 
 ---
+
 ## 🛠️ Tech Stack
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode" />
-</p>
+**Frontend:** React.js, Vite, JavaScript, HTML, CSS, Tailwind CSS  
+**Backend:** Python, Django, Django REST Framework, FastAPI  
+**Database:** PostgreSQL, MySQL, SQLite  
+**Tools:** Git, GitHub, GitLab, Postman, VS Code
 
 ---
 
