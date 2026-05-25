@@ -5,6 +5,8 @@ Passionate Full Stack Developer focused on building modern web applications usin
 
 Currently working as a Software Developer Intern at Techolas Technologies on CRM based applications.
 
+check out my portfolio https://portfolio-hazel-six-69.vercel.app/
+
 ---
 
 ## 🛠️ Tech Stack
