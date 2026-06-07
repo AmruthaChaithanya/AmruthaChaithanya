@@ -1,17 +1,17 @@
 # Hi there 👋 I'm Amrutha Chaithanya
 
 ## 🚀 About Me
-Passionate Full Stack Developer focused on building modern web applications using React, Django, and FastAPI. I enjoy creating responsive UIs, scalable backend systems, and clean user experiences.
+Passionate Full Stack Developer focused on building modern web applications using React, Django. I enjoy creating responsive UIs, scalable backend systems, and clean user experiences.
 
-Currently working as a Software Developer Intern at Techolas Technologies on CRM based applications.
+Currently working as a Junior Software Developer at Techolas Technologies on CRM based applications.
 
 check out my portfolio https://portfolio-hazel-six-69.vercel.app/
 
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** React.js, Vite, JavaScript, HTML, CSS, Tailwind CSS  
-**Backend:** Python, Django, Django REST Framework, FastAPI  
+**Frontend:** React.js, Vite, JavaScript, HTML, CSS, Tailwind CSS, Flowbite CSS  
+**Backend:** Python, Django, Django REST Framework 
 **Database:** PostgreSQL, MySQL, SQLite  
 **Tools:** Git, GitHub, GitLab, Postman, VS Code
 
