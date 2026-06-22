@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Passionate Full Stack Developer focused on building modern web applications using React, Django. I enjoy creating responsive UIs, scalable backend systems, and clean user experiences.
 
-Currently working as a Junior Software Developer at Techolas Technologies on CRM based applications.
+Currently working as a Junior Software Developer at Techolas Technologies.
 
 check out my portfolio https://portfolio-hazel-six-69.vercel.app/
 
@@ -18,7 +18,7 @@ check out my portfolio https://portfolio-hazel-six-69.vercel.app/
 ---
 
 ## 🌱 Currently Learning
-Advanced React, API Optimization, and Backend Scalability
+Just js, React test library
 
 ---
 
